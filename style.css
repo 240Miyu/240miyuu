@@ -1,0 +1,29 @@
+ body{background-color:#f5f5f5/*whitesmoke*/}
+ 
+h1{
+color:#696969;
+font-size:36px;
+text-align:center;
+font-family:"游明朝"}
+
+h2{
+color:#696969;
+font-size:26px;
+text-align:center;
+font-family:"游明朝"}
+
+h3{
+color:#db7093;
+font-size:20px;
+text-align:center;
+font-family:"游明朝"}
+
+p{
+color:#696969;
+font-size:16px;
+text-align:center;
+font-family:"游明朝"}
+
+img{
+display:block;
+margin: 0 auto;}
